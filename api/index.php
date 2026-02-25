@@ -11,4 +11,4 @@ echo json_encode([
     "runtime" => $serverName,
     "lucky_number" => $randomNumber,
     "server_time" => $date->format('H:i:s T')
-]);
+]); ?>
